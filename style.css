@@ -53,6 +53,7 @@ body .container #user #profile-pic img {
 }
 body .container #user #name {
   font-weight: 700;
+  color: hsl(229, 23%, 23%);
 }
 body .container #user #name span {
   font-weight: 400;
@@ -73,11 +74,14 @@ body .container #stats {
 }
 body .container #stats h2 {
   font-weight: 700;
+  letter-spacing: 1px;
+  color: hsl(229, 23%, 23%);
 }
 body .container #stats p {
-  font-size: 14px;
+  font-size: 12px;
   line-height: 2em;
   color: hsl(227, 10%, 46%);
+  font-weight: 400;
 }
 
 .attribution {

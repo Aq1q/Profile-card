@@ -62,9 +62,10 @@ body {
             }
             #name{
                 font-weight: 700;
+                color: $very-dark-desaturated-blue;
                 span{
                     font-weight: 400;
-                    color: $dark-gray   ;
+                    color: $dark-gray;
                 }
             }
             #loc{
@@ -82,11 +83,14 @@ body {
             text-align: center;
             h2{
                 font-weight: 700;
+                letter-spacing: 1px;
+                color: $very-dark-desaturated-blue;
             }
             p{
-                font-size: 14px;
+                font-size: 12px;
                 line-height: 2em;
                 color: $dark-grayish-blue;
+                font-weight: 400;
             }
         }
     }
