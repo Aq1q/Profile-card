@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repo](https://github.com/Aq1q/results-summary-component)
-- Live Site URL: [Live site](https://aq1q.github.io/results-summary-component)
+- Solution URL: [Repo](https://github.com/Aq1q/Profile-card)
+- Live Site URL: [Live site](https://aq1q.github.io/Profile-card)
 
 ## My process
 
