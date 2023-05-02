@@ -74,4 +74,15 @@ body .container #stats p {
   font-size: 14px;
   line-height: 2em;
   color: hsl(227, 10%, 46%);
+}
+
+@media screen and (min-width: 1440px) {
+  body {
+    background: url("./images/bg-pattern-bottom.svg") bottom -636px right -253px no-repeat, url("./images/bg-pattern-top.svg") top -508px left -283px no-repeat;
+    background-color: hsl(185, 75%, 39%);
+  }
+  body .container {
+    width: 350px;
+    height: 375px;
+  }
 }/*# sourceMappingURL=style.css.map */

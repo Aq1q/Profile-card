@@ -87,3 +87,15 @@ body {
         }
     }
 }
+
+@media screen and (min-width: 1440px) {
+    body {
+        background: url('./images/bg-pattern-bottom.svg') bottom -636px  right -253px no-repeat, 
+        url('./images/bg-pattern-top.svg') top -508px left -283px no-repeat;
+        background-color: $dark-cyan;
+        .container {
+            width: 350px;
+            height: 375px;
+        }
+    }
+}
