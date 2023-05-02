@@ -52,6 +52,10 @@ body {
             flex-direction: column;
             gap: 15px;
             padding-bottom: 25px;
+            #profile-pic {
+                display: flex;
+                justify-content: center;
+            }
             #profile-pic img{
                 border: 5px solid white;
                 border-radius: 50%;

@@ -43,6 +43,10 @@ body .container #user {
   gap: 15px;
   padding-bottom: 25px;
 }
+body .container #user #profile-pic {
+  display: flex;
+  justify-content: center;
+}
 body .container #user #profile-pic img {
   border: 5px solid white;
   border-radius: 50%;
