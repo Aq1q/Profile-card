@@ -31,7 +31,7 @@ body .container {
   background: url(./images/bg-pattern-card.svg) no-repeat;
   background-color: white;
   padding-top: 85px;
-  box-shadow: 0 40px 100px hsl(229, 23%, 23%);
+  box-shadow: 0 1px 100px -20px hsl(229, 23%, 23%);
 }
 body .container #line {
   width: 100%;
